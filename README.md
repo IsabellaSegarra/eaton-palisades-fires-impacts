@@ -23,7 +23,7 @@ The data for this project includes Landsat data accessed through the [Microsoft 
 
 ## Refrences 
 
-[1] Los Angeles County/ NIFC FIRIS. (2025). Palisades_and_Eaton_Dissolved_Fire_Perimeters [data file] Available: https://hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about [Date of Access: November 17 2025]
+Los Angeles County/ NIFC FIRIS. (2025). Palisades_and_Eaton_Dissolved_Fire_Perimeters [data file] Available: https://hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about [Date of Access: November 17 2025]
 
-[2] U.S. Geological Survey. Landsat Collection 2 Level-2 Surface Reflectance (Microsoft Planetary Computer version)_[data file] Available: https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2#overview [Date of Access: November 17 2025]
+ U.S. Geological Survey. Landsat Collection 2 Level-2 Surface Reflectance (Microsoft Planetary Computer version)_[data file] Available: https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2#overview [Date of Access: November 17 2025]
 
